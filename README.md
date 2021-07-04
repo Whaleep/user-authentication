@@ -3,6 +3,7 @@
 
 ## 特色 Features
 - 預覽「帳號密碼檢查機制」需要用到的頁面、路由與資料
+- 用 cookie 保存使用者登入狀態
 
 ## 環境建置 Environment Setup
 
