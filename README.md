@@ -37,3 +37,13 @@ npm run dev
 ```
 Express is listening on localhost:3000
 ```
+
+## 版本階段 Version
+
+在終端機輸入指令切換到對應進度
+- v0 學期2-3 A10進度
+- v1 學期2-3 A11進度
+```
+git checkout v0
+git checkout v1
+```
